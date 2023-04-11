@@ -18,12 +18,4 @@ Currently this has these following features-
 * Displaying all time top rated movies that are recently released.
 * Showing recommendations of similar movies. (Most useful! :p)
 * Showing the trailer of the particular movie on the same window. (Personal favourite! :p).
-* Tracking of users' watch history. **[Currently disabled because of Heroku's max connection limit on ClearDB free plan -_-]**
-    
-##### Snapshots:
 
-![](https://github.com/arghac14/Cinemy/blob/master/Snapshots/1.JPG)
-![](https://github.com/arghac14/Cinemy/blob/master/Snapshots/2.JPG)
-![](https://github.com/arghac14/Cinemy/blob/master/Snapshots/3.JPG)
-![](https://github.com/arghac14/Cinemy/blob/master/Snapshots/4.JPG)
-![](https://github.com/arghac14/Cinemy/blob/master/Snapshots/5.JPG)
