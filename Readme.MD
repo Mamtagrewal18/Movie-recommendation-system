@@ -1,11 +1,7 @@
-# Cinemy
 
 #### Description
 
-A progressive web app made with Node.js and MySQL using TMDB API, where users can explore a wide range of movies, get information about them, get similar movie recommendations and can track their watch history.
-
-#### Link
-[Live link](https://cinemy.herokuapp.com)
+A progressive web app made with Node.js and MySQL using TMDB API, where users can explore a wide range of movies, get information about them, get similar movie recommendations and can track their watch history
 
 #### Tech Stack
 
